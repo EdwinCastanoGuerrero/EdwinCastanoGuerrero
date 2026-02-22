@@ -3,7 +3,7 @@
 **`Desenvolvedor Web`**
 
 Olá, me chamo Edwin, sou estudante da PUCPR.
-Sou natural da Colombia, mas moro no Brasil há 12 anos. Trabalho na área de TI há mais de  7, começando como suporte técnico, sendo a porta de entrada para entrar na área de TI e conhecer posteriormente a área da programação web, onde estou atualmente.
+Sou natural da Colombia, mas moro no Brasil há 12 anos. Trabalho na área de TI há mais de  7, começando como suporte técnico, sendo a porta de entrada para começar na área de TI e conhecer posteriormente a área da programação web, onde estou atualmente.
 
 
 <div align="center">
