@@ -7,7 +7,7 @@ Sou natural da Colombia, mas moro no Brasil há 12 anos. Trabalho na área de TI
 
 
 <div align="center">
-  <a href="www.linkedin.com/in/edwin-guerrero-014818235" target="_blank">
+  <a href="https://www.linkedin.com/in/edwin-guerrero-014818235" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:edwincas1234@hotmail.com.com">
