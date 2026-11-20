@@ -1,9 +1,8 @@
-# Edwin Guerrero
+# Quem sou eu?
 
 **`Desenvolvedor Web`**
 
-Olá, me chamo Edwin, sou estudante da PUCPR.
-Sou natural da Colômbia, trabalhou na área de TI faz 9 anos, começando pelo suporte e indo para área do desenvolvimento Web.
+Olá, me chamo Edwin e sou estudante da PUCPR. Sou natural da Colômbia, trabalho na área de TI há 7 anos, começando pelo suporte técnico e indo para a área de desenvolvimento web.
 
 
 <div align="center">
@@ -111,4 +110,13 @@ Sou natural da Colômbia, trabalhou na área de TI faz 9 anos, começando pelo s
 
 <br/>
 <br/>
+
+<hr>
+
+
+
+<br/>
+<br/>
+
+[![Edwin's GitHub stats](https://github-stats-extended.vercel.app/api/?username=EdwinCastanoGuerrero&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Edwin's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github.com/EdwinCastanoGuerrero)
 
