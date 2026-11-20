@@ -1,9 +1,10 @@
 # Quem sou eu?
 
-**`Desenvolvedor Web`**
+
 
 Olá, me chamo Edwin e sou estudante da PUCPR. Sou natural da Colômbia, trabalho na área de TI há 7 anos, começando pelo suporte técnico e indo para a área de desenvolvimento web.
 
+**`Meus contatos`**
 
 <div align="center">
   <a href="https://www.linkedin.com/in/edwin-guerrero-014818235" target="_blank">
@@ -107,6 +108,22 @@ Olá, me chamo Edwin e sou estudante da PUCPR. Sou natural da Colômbia, trabalh
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="JQuery" 
+    title="JQuery"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
+/>
 
 <br/>
 <br/>
